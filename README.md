@@ -9,15 +9,12 @@ Mechanical Engineering graduate student seeking a part-time opportunity supporti
 - **B.S. Electrical Engineering**, Northern Illinois University (NIU) — *May 2004*  
 - **Project Management Certificate**, University of California Berkeley — *Mar 2023*
 ---
-
-
-## Skills  
-SolidWorks, Pro/E, Fusion 360, ANSYS Workbench, MATLAB, Simulink  
-Python, C++, Java, SQL, HTML/CSS/JS, Shell, Unix/Linux   
-Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis  
-Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace   
-OS: Windows & Mac
----
+## Skills
+- SolidWorks, Pro/E, Fusion 360, ANSYS Workbench, MATLAB, Simulink   
+- Python, C++, Java, SQL, HTML/CSS/JS, Shell, Unix/Linux    
+- Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis,  
+  Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace,
+  Windows & Mac
 
 ## Experience
 
