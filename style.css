@@ -79,3 +79,45 @@ body {
 .resume p {
   margin: 6px 0;
 }
+
+/* Narrow reading width for better wrapping */
+.resume {
+  max-width: 720px;   /* tighter than before */
+}
+
+/* Force nicer bullet wrapping */
+.resume li {
+  max-width: 92%;
+}
+
+/* Job header line with dash leader */
+.job-header {
+  display: block;          /* allow natural wrapping */
+  font-weight: 600;
+  margin-top: 16px;
+  margin-bottom: 4px;
+}
+
+.job-header-line {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.job-title {
+  white-space: normal;
+}
+
+.job-dashes {
+  flex-grow: 1;
+  border-bottom: 1px dashed #999;
+  margin: 0 6px 4px 6px;
+}
+
+.job-date {
+  white-space: nowrap;
+  font-weight: normal;
+  font-size: 13px;
+  color: #444;
+}
+
